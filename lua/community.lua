@@ -15,7 +15,7 @@ return {
   {
     import = "astrocommunity.terminal-integration.flatten-nvim",
   },
-  { import = "astrocommunity.scrolling.mini-animate" },
+  -- { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   {
     "willothy/flatten.nvim",
@@ -66,5 +66,5 @@ return {
       },
     },
   },
-  { import = "astrocommunity.project.nvim-spectre" },
+  -- { import = "astrocommunity.project.nvim-spectre" },
 }
